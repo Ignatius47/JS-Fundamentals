@@ -1,0 +1,1 @@
+This Repository contains my solutions to the Js Fundamentals exercises.
